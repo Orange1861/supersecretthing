@@ -370,3 +370,4 @@ v2;40;Et quels sont nos ennemis? Un groupe de tricksters romains et amoureux de 
 v1;80;Ne pas oublier les fous des neiges qui n'ont même pas le concept de l'argent! / Don't forget the snow fools who don't even have the concept of money!
 v2;120;Hahaha! La vie normande est la meilleure du monde! Merveilleux cidre, meilleurs outils. Ah, c'est notre âge d'or! / Hahaha! The Norman life is the best in the world! Wonderful Cider, best tools. Ah, this is our golden age.
 v1;160;Et nous arrivons à le partager! / And we get to share it!
+v2;200;Hahaha! / Hahaha!
