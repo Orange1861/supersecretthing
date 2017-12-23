@@ -41,6 +41,7 @@ lumberman_byzantine.BringBackResourcesHome=H gynaika mou prepei na einai perhfan
 lumberman_byzantine.ChopTrees=Kathe ktirio edw xreiazete xilo, h apokthsh tou einai douleia mou! / Every structure here needs wood, and getting it is my job!
 lumberman_byzantine.GatherGoods=Polu wraio dentryllio. / Nice sapling over there.
 lumberman_byzantine.PlantSaplings=Syntoma tha ginei ena megalo, panemorfo dentro! Kai tha to kopsw.  / Soon this will be a big, majestic tree! And I'll cut it down.
+lumberman_byzantine.ChopTrees=Éna állo déntro káto, perissótero xýlo gia to chorió! / Another tree down, more wood for the village!
 
 keeperBirch_byzantine.greeting=Pws skeftike kapios oti mporei na brei ergasia edw... / How could anyone think someone should be posted here...
 keeperBirch_byzantine.greeting=Einai toso bareta edw, den symvainei sxedon tipota... / It's so dull here, nothing ever happens...
